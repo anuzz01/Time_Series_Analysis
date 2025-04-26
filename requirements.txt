@@ -1,0 +1,11 @@
+numpy==1.26.4
+packaging==24.2
+pmdarima==2.0.3
+pandas==2.0.3
+streamlit==1.27.0
+matplotlib==3.7.2
+plotly==5.16.1
+scikit-learn==1.3.0
+tensorflow==2.13.0       # CPU build
+statsmodels==0.14.0
+requests==2.31.0
