@@ -1,0 +1,2 @@
+model,model_type,total_return,annual_return,annual_volatility,sharpe_ratio,sortino_ratio,calmar_ratio,information_ratio,max_drawdown,win_rate,total_trades,market_return
+ARIMA/SARIMAX,statistical,0.20782575920518176,0.25843650111144245,0.2044913801222028,1.2638014421781611,1.4490407892037367,2.562033680734689,0.5801434650794823,-0.10087162516822697,0.5314009661835749,139,0.010900378747457085
