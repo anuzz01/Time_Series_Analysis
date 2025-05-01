@@ -1,0 +1,2 @@
+model,model_type,total_return,annual_return,annual_volatility,sharpe_ratio,sortino_ratio,calmar_ratio,information_ratio,max_drawdown,win_rate,total_trades,market_return
+TimeGPT-Few-Shot TimeGPT,foundation_model,0.06795748165909377,0.08333143624526151,0.1907815795904451,0.4367897384231271,0.44460457691203775,0.6337788757230068,0.18995644817772617,-0.13148345493560049,0.46859903381642515,131,0.010900378747457085
